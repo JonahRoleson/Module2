@@ -10,3 +10,4 @@ output/**/result.exe
 !output.exe
 !build/
 build/**
+!build/output.exe
